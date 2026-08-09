@@ -1,5 +1,4 @@
-# Random Name Generator and Saver App - 
-# EKS with CI/CD
+# Random Name Generator and Saver App - EKS with CI/CD
 
 ## Overview
 
