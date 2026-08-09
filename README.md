@@ -1,4 +1,5 @@
-# Random Name Generator and Saver App - EKS with CI/CD
+# Random Name Generator and Saver App - 
+# EKS with CI/CD
 
 ## Overview
 
@@ -38,10 +39,6 @@ https://github.com/redhat-developer-demos/namegen
 - **GitHub OIDC + AWS IAM** - secure CI/CD authentication
 
 ---
-
-## Architecture
-
-![Architecture Diagram](diagram/architecture.png)
 
 ### App Flow
 
