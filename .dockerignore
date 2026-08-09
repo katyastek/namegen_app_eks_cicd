@@ -1,0 +1,10 @@
+node_modules
+.git
+.github
+Kubernetes
+eksctl
+screenshots
+diagram
+README.md
+.env
+*.log
